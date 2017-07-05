@@ -1,4 +1,4 @@
-baseurl = " https://lucifron.coding.me/lucifron"
+baseurl = ""
 copyright = "&copy; 2017 Hong Wang"
 theme = "academic"
 enableEmoji = true
