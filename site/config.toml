@@ -1,5 +1,5 @@
 baseurl = "https://onev.cat"
-copyright = "&copy; 2017 Wei Wang"
+copyright = "&copy; 2017 Hong Wang"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -18,14 +18,14 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  organization = "OneV's Den (@onevcat)"
-  organization_url = "https://onevcat.com"
-  avatar = "portrait.jpg"
-  email = "onev@onevcat.com"
+  # organization = ""
+  # organization_url = "https://"
+  avatar = "portrait.png"
+  email = "hongwang1994@gmail.com"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = "onevcat"
+  # keybase = "onevcat"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -63,12 +63,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:onev@onevcat.com"
+    link = "mailto:hongwang1994@gmail.com"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/onevcat"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/"
 
   [[params.social]]
     icon = "weibo"
@@ -78,7 +78,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/onevcat"
+    link = "//github.com/lucifron1994"
 
   [[menu.main]]
     name = "Home"
@@ -152,16 +152,16 @@ defaultContentLanguageInSubdir = false
 
 [languages.en]
   languageCode = "en-us"
-  title = "Resume - Wei Wang"
-  name = "Wei Wang"
+  title = "Resume - Hong Wang"
+  name = "Hong Wang"
   role = "iOS Developer"
-  address = "JR Shinjuku Miraina Tower 23F, 4-1-6 Shinjuku, Shinjuku-ku, Tokyo, 160-0022, Japan"
+  address = "Beijing, China"
   office_hours = "Please send an email for appointment"
 
 [languages.zh]
   languageCode = "zh"
-  title = "简历 - 王巍"
-  name = "王 巍"
+  title = "简历 - 王宏"
+  name = "王 宏"
   role = "iOS 开发者"
-  address = "日本東京都新宿区新宿 4-1-6　JR 新宿ミライナタワー 23 階，160-0022，03-4316-2000"
+  address = "北京市"
   office_hours = "预约会面请先邮件联系"
