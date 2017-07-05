@@ -1,4 +1,4 @@
-baseurl = "https://onev.cat"
+baseurl = " https://lucifron.coding.me/lucifron"
 copyright = "&copy; 2017 Hong Wang"
 theme = "academic"
 enableEmoji = true
@@ -54,11 +54,11 @@ defaultContentLanguageInSubdir = false
   #   The numeric ID is used in a publication's frontmatter to categorize it.
   #   The language can be edited below.
   #   For multi-lingual sites, copy this block to each language section at the end of this file.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Book',  # 1
-    'Book chapter'  # 2
-  ]
+  # publication_types = [
+  #   'Uncategorized',  # 0
+  #   'Book',  # 1
+  #   'Book chapter'  # 2
+  # ]
 
   [[params.social]]
     icon = "envelope"
@@ -70,10 +70,10 @@ defaultContentLanguageInSubdir = false
   #   icon_pack = "fa"
   #   link = "//twitter.com/"
 
-  [[params.social]]
-    icon = "weibo"
-    icon_pack = "fa"
-    link = "//weibo.com/onevcat"
+  # [[params.social]]
+  #   icon = "weibo"
+  #   icon_pack = "fa"
+  #   link = "//weibo.com/wh1994105"
 
   [[params.social]]
     icon = "github"
@@ -91,16 +91,6 @@ defaultContentLanguageInSubdir = false
     weight = 2
 
   [[menu.main]]
-    name = "Publications"
-    url = "#publications_selected"
-    weight = 3
-
-  [[menu.main]]
-    name = "Talks"
-    url = "#talks"
-    weight = 4
-
-  [[menu.main]]
     name = "Experience"
     url = "#experience"
     weight = 5
@@ -110,58 +100,47 @@ defaultContentLanguageInSubdir = false
     url = "#contact"
     weight = 6
 
-  [[menu.main]]
-    name = "中文"
-    url = "/zh"
-    weight = 7
+  # [[menu.main]]
+  #   name = "中文"
+  #   url = "/zh"
+  #   weight = 5
 
-  [[languages.zh.menu.main]]
-  name = "主页"
-  url = "#about"
-  weight = 1
+  # [[languages.zh.menu.main]]
+  # name = "主页"
+  # url = "#about"
+  # weight = 1
 
-  [[languages.zh.menu.main]]
-    name = "项目"
-    url = "#projects_selected"
-    weight = 2
+  # [[languages.zh.menu.main]]
+  #   name = "项目"
+  #   url = "#projects_selected"
+  #   weight = 2
 
-  [[languages.zh.menu.main]]
-    name = "出版"
-    url = "#publications_selected"
-    weight = 3
+  # [[languages.zh.menu.main]]
+  #   name = "经历"
+  #   url = "#experience"
+  #   weight = 3
 
-  [[languages.zh.menu.main]]
-    name = "演讲"
-    url = "#talks"
-    weight = 4
-
-  [[languages.zh.menu.main]]
-    name = "经历"
-    url = "#experience"
-    weight = 5
-
-  [[languages.zh.menu.main]]
-    name = "联系"
-    url = "#contact"
-    weight = 6
+  # [[languages.zh.menu.main]]
+  #   name = "联系"
+  #   url = "#contact"
+  #   weight = 4
   
-  [[languages.zh.menu.main]]
-    name = "English"
-    url = "../"
-    weight = 7
+  # [[languages.zh.menu.main]]
+  #   name = "English"
+  #   url = "../"
+  #   weight = 5
+
+# [languages.en]
+#   languageCode = "en-us"
+#   title = "Resume - Hong Wang"
+#   name = "Hong Wang"
+#   role = "iOS Developer"
+#   address = "Beijing, China"
+
 
 [languages.en]
-  languageCode = "en-us"
-  title = "Resume - Hong Wang"
-  name = "Hong Wang"
-  role = "iOS Developer"
-  address = "Beijing, China"
-  office_hours = "Please send an email for appointment"
-
-[languages.zh]
   languageCode = "zh"
   title = "简历 - 王宏"
   name = "王 宏"
   role = "iOS 开发者"
   address = "北京市"
-  office_hours = "预约会面请先邮件联系"

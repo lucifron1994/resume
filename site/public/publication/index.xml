@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Resume - Hong Wang</title>
+    <link>http://lucifron.coding.me/lucifron/publication/</link>
+    <description>Recent content in Publications on Resume - Hong Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hong Wang</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/lucifron/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced Swift</title>
+      <link>http://lucifron.coding.me/lucifron/publication/advanced-swift/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/publication/advanced-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core Data</title>
+      <link>http://lucifron.coding.me/lucifron/publication/core-data/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/publication/core-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Swift</title>
+      <link>http://lucifron.coding.me/lucifron/publication/functional-swift/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/publication/functional-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swifter - Swift Must Know Tips</title>
+      <link>http://lucifron.coding.me/lucifron/publication/swifter/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/publication/swifter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

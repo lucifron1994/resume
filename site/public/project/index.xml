@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Resume - Hong Wang</title>
+    <link>http://lucifron.coding.me/lucifron/project/</link>
+    <description>Recent content in Projects on Resume - Hong Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hong Wang</copyright>
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/lucifron/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kingfisher</title>
+      <link>http://lucifron.coding.me/lucifron/project/kingfisher/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/project/kingfisher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FengNiao</title>
+      <link>http://lucifron.coding.me/lucifron/project/fengniao/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/project/fengniao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mail Me</title>
+      <link>http://lucifron.coding.me/lucifron/project/mailme/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/project/mailme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LINE LIVE</title>
+      <link>http://lucifron.coding.me/lucifron/project/live/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/project/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ObjC CN</title>
+      <link>http://lucifron.coding.me/lucifron/project/objccn/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/project/objccn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

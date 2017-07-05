@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on 简历 - 王宏</title>
+    <link>http://lucifron.coding.me/lucifron/zh/tags/web/</link>
+    <description>Recent content in Web on 简历 - 王宏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2017 Hong Wang</copyright>
+    <lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/lucifron/zh/tags/web/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ObjC 中国</title>
+      <link>http://lucifron.coding.me/lucifron/zh/project/objccn/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/zh/project/objccn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

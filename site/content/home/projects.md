@@ -2,7 +2,7 @@
 date = "2017-03-29T00:00:00"
 draft = false
 
-title = "Other Projects"
+title = "其他项目"
 subtitle = ""
 widget = "custom"
 
@@ -16,24 +16,17 @@ view = 0
 
 +++
 
-I also built and worked on these projects:
+我同时还创建了以下项目：
 
 ### [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
-<span class="dim">Xcode Plugin</span>
 
-An Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift. In Xcode 8, Apple integrated a comment documentation generator plugin, which was built on top of VVDocumenter. This project is proud to be a part of Apple from 2016.
+
+
+<span class="dim">Xcode 插件</span>
+
+可以让你在 Xcode 中直接为 Swift 和 Objective-C 创建文档注释的 IDE 插件。从 2016 年起，Apple 基于 VVDocumenter 的实现，为 Xcode 添加了内置集成的文档生成功能。因此该项目及其代码现在已经是 Apple 的一部分，我个人不再继续对其进行维护。
 
 ### [Rainbow](https://github.com/onevcat/Rainbow)
-<span class="dim">Framework</span>
+<span class="dim">框架</span>
 
-Delightful console output for Swift developers. Rainbow adds text color, background color and style for console and command line output in Swift. It is born for cross platform software logging in terminals, working in both Apple's platforms and Linux. 
-
-### [Hedwig](https://github.com/onevcat/Hedwig)
-<span class="dim">Framework</span>
-
-Send email to any SMTP server like a boss, in Swift and cross-platform. With Hegwig, you could connect to any SMTP server from either a Linux server or macOS/iOS app written in Swift. It supplies a set of high level APIs to allow you to interact with SMTP much easier.
-
-### [APNGKit](https://github.com/onevcat/APNGKit)
-<span class="dim">Framework</span>
-
-APNGKit is a high performance framework for loading and displaying APNG images in iOS. It's built on top of a modified version of libpng with APNG support and written in Swift. High-level abstractions of Cocoa Touch is used for a delightful API. Since be that, you will feel at home and joy when using APNGKit to play with images in APNG format.
+让 Swift 开发者愉悦的控制台输出字符串着色。Ranibow 可以为 Swift 命令行工具的输出文本添加文本颜色，背景颜色或者常见样式。该框架可以同时用于 Apple 平台和 Linux 开发，提高终端日志输出和用户交互的体验。

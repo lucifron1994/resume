@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Professional Experience"
+title = "职业经历"
 subtitle = ""
 widget = "custom"
 
@@ -14,23 +14,14 @@ weight = 60
 
 +++
 
-### Oct. 2014 ~ now
+### 2016 年 9 月 ~ 至今
 
-Software Engineer, Dev Center 3, [LINE Corp.](https://line.me), Tokyo, Japan
+斗鱼科技有限公司    
 
-- iOS application development
-- Swift evangelist
++  iOS 软件工程师
 
-### Oct. 2012 ~ Sep. 2014
+### 2016 年 2 月 ~ 2016 年 9 月
 
-Unity Engineer/Unity Team Leader, [Kayac Inc.](https://www.kayac.com/en), Yokohama, Japan
+云拓锐联科技有限公司  
 
-- Unity game development & optimization
-- New employee skill training & judgement
-
-### Mar. 2011 ~ Jul. 2012
-
-Software Engineer, Red Infinity, Beijing, China
-
-- Employee of startup company
-- iOS game development & brand management 
++ iOS 软件工程师 

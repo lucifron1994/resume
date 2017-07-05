@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Framework on 简历 - 王宏</title>
+    <link>http://lucifron.coding.me/lucifron/zh/tags/framework/</link>
+    <description>Recent content in Framework on 简历 - 王宏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2017 Hong Wang</copyright>
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/lucifron/zh/tags/framework/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kingfisher</title>
+      <link>http://lucifron.coding.me/lucifron/zh/project/kingfisher/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/zh/project/kingfisher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FengNiao</title>
+      <link>http://lucifron.coding.me/lucifron/zh/project/fengniao/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucifron.coding.me/lucifron/zh/project/fengniao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
